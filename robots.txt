@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://badreltmam.github.io/sitemap.xml
